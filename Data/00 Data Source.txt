@@ -1,0 +1,9 @@
+TCGA, GEO and CGGA reserve all rights of rawdata.
+
+Gene Expression Data Source:
+TCGA: https://xenabrowser.net/
+CGGA1: http://www.cgga.org.cn/download.jsp  DataSet ID: mRNAseq_693 and mRNAseq_325
+CGGA2: http://www.cgga.org.cn/download.jsp  DataSet ID: mRNA-array_301
+Rembrandt: http://www.cgga.org.cn/download_other.jsp
+Weller: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61374
+Gravendeel: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16011
